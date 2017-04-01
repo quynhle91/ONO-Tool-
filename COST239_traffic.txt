@@ -1,0 +1,8 @@
+London,Praque,13,
+
+Paris,Copenhagen,12,
+
+Amsterdam,Milan,15,
+
+Praque,Paris,25,
+
